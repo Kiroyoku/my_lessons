@@ -2,3 +2,9 @@ body {
 background-color: rgba(32, 178, 170, 0.3);
 
 }
+
+table {
+	border: 1px solid black;
+	border-collapse: collapse;
+
+}
