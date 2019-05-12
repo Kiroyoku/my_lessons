@@ -1,0 +1,57 @@
+body {
+	background-color: rgba(255, 69, 0, 0.2);
+
+}
+
+
+h1 {
+	text-align: center;
+}
+
+
+h2	{
+	text-align: center;
+	color: #006400;
+}
+
+h3 {
+	margin-left: 65px;
+
+}
+
+a {
+	color: black;
+
+}
+
+.prehistory {
+width: 620px;
+font-size: 15px;
+margin-left: 470px;
+border: 2px solid black;
+}
+
+
+.authorPhoto {
+	position: absolute;
+ width:440px;
+
+}
+
+.content {
+	position:  fixed;
+	top: 10px;
+	right: 3px;
+	border: 1px solid black;
+}
+
+.text {
+	width: 1100px;
+	text-align: justify;
+	margin-left: 380px;
+	color: #808000;
+}
+
+.backButton {
+	text-align: right;	
+}
