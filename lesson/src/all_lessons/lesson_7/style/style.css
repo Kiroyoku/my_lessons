@@ -1,0 +1,26 @@
+body {
+box-sizing: border-box;
+font-family: 'Tahoma', sans-serif;
+}
+
+.clients {
+	background-color: #ffffff;
+	padding-top: 89px;
+	padding-bottom: 111px;
+	text-align: center;
+
+}
+
+.clients__title {
+	margin-bottom: 69px;
+	font-size: 30px;
+	font-weight: 700;
+	color: #333333;
+}
+
+.clients__photo {
+	margin-bottom: 40px;
+	margin-right: 32px;
+	min-width: 150px;
+
+}
